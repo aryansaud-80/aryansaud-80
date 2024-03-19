@@ -2,12 +2,21 @@
 # 💫 About Me:
 👋 Hello there! I'm Aryan Saud, a passionate student diving into the world of programming and currently focusing on mastering JavaScript.<br><br>🚀 I'm on an exciting journey of learning and exploring the ins and outs of JavaScript, from the basics to more advanced concepts like asynchronous programming and modern frameworks like React and Node.js.<br><br>💼 As a student, I'm dedicated to expanding my knowledge and skill set in the field of web development. I'm currently honing my skills through various online courses, tutorials, and personal projects.<br><br>🌱 In my free time, you'll often find me immersed in coding challenges on platforms like LeetCode or contributing to open-source projects to gain practical experience and give back to the community.<br><br>📫 Have any tips or resources to share? Or perhaps you're looking for a study buddy to tackle JavaScript projects together? Feel free to reach out to me via email at aryansaud80@gmail.com !<br><br>⚡ Fun fact: When I'm not coding, I enjoy playing Cricket and Football.<br>
 
-<img alt="coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-## 🌐 Socials:
-<a href="https://twitter.com/dev_beginners" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="dev_beginners" height="30" width="40" /></a><a href="https://fb.com/aryan.saud.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="aryan.saud.56" height="30" width="40" /></a><a href="https://codepen.io/aryansaud-80" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="aryansaud-80" height="30" width="40" /></a><a href="https://instagram.com/aryan.saud.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aryan.saud.56" height="30" width="40" /></a></p>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dev.beginners" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="dev.beginners" height="30" width="40" /></a><a href="https://fb.com/aryan.saud.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="aryan.saud.56" height="30" width="40" /></a><a href="https://codepen.io/aryansaud-80" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="aryansaud-80" height="30" width="40" /></a><a href="https://instagram.com/aryansaud-80" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aryansaud-80" height="30" width="40" /></a><a href="https://dev.to/aryansaud-80" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="aryansaud-80" height="30" width="40" /></a></p>
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aryansaud-80&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -17,7 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aryansaud-80&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -45,4 +53,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aryansaud-80&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
